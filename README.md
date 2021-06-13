@@ -1,2 +1,2 @@
 # PortalWidgets
-A clone of a dudes widgets
+Open For Use
